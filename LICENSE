@@ -1,9 +1,9 @@
 
 
                             HERCULEAN COMMON LICENSE
-                         ------------------------------
+                         +----------------------------+
                          |   NOT FOR ENTERPRISE USE   |
-                         ------------------------------
+                         +----------------------------+
                           Copyright © %YEAR% %COMPANY%
 
                               Enterprise License at 
@@ -11,11 +11,12 @@
 
 
 +------------------------------------------------------------------------------+
-|    PREAMBLE.  This License is a modified form of the MIT license that aims   |
-| to capture the best parts of open source by making Software fully and freely |
-| accessible to private individuals, while also empowering software developers |
-| to monetize their work by requiring that Corporations and other enterprise   |
-| users pay for a license after a year of use.                                 |
+|    PREAMBLE.  Based on the MIT license, the Herculean Common License aims to |
+| promote best parts of open source by making Software fully and freely        |
+| accessible to everyone for non-commercial purposes, while simultaneously     |
+| enabling software developers to easily monetize their work by requiring that |
+| Corporations and other enterprise users pay for an enterprise license after  |
+| a year of for-profit use.                                                    |
 +------------------------------------------------------------------------------+
 
     DEFINITIONS.    For the purposes of this License, the following 
@@ -52,11 +53,13 @@
 
     GRANT OF PERMISSION.    Permission is hereby granted, free of charge, to 
     any Valid Licensee obtaining a copy of this software and associated 
-    documentation files (the "Software"), to deal in the Software without 
-    restriction, including without limitation the rights to use, copy, 
-    modify, merge, publish, distribute, sublicense, and/or sell copies of the 
-    Software, and to permit Valid Licensees to whom the Software is furnished 
-    to do so, subject to the following conditions:
+    documentation files (the "Software") for such time that they shall 
+    continue to qualify as a Valid Licensee in accordance with Paragraph 3 
+    above, to deal in the Software without restriction, including without 
+    limitation the rights to use, copy, modify, merge, publish, distribute, 
+    sublicense, and/or sell copies of the Software, and to permit Valid 
+    Licensees to whom the Software is furnished to do so, subject to the
+    following conditions:
 
         1.  The above copyright notice and the following permission notice 
             shall be included in all copies or substantial portions of the 
@@ -72,8 +75,10 @@
             OTHER DEALINGS IN THE SOFTWARE.
 
         2.  This License file is to be included, unmodified, with the 
-        filename "LICENSE" or "HERCULEAN.LICENSE" in the root directory of 
-        original or derivative Software source codes (if applicable).
+        filename "LICENSE" in the root directory of original or derivative 
+        Software source codes (if applicable).
+        
+        3.  Should any person in possession of this Software fail to qualify as a Valid Licensee in accordance with Paragraph 3 above, they shall immediately cease and desist from selling the Software and/or derivative work(s) until such time that they have been granted an Enterprise License from the Licensor.
   
     ALL RIGHTS RESERVED.    With the exception of the permissions granted 
     above, the copyright holder reserves all rights under U.S. and 
