@@ -14,45 +14,45 @@
 | accessible to everyone for non-commercial purposes, while simultaneously     |
 | enabling software developers to easily monetize their work by requiring that |
 | Corporations and other enterprise users pay for an enterprise license after  |
-| a year of for-profit use.                                                    |
+| one year of for-profit use.                                                  |
 +------------------------------------------------------------------------------+
 
-    DEFINITIONS.    For the purposes of this License, the following 
+    1.  DEFINITIONS.    For the purposes of this License, the following 
     definitions shall apply:
 
-    1.  "Software" shall mean all software, source code, and/or associated 
-    documentation files included alongside this license.
-    
-    2.  "Enterprise User" shall mean:
-    
-        a.  Any Corporation.
+        1.1.  "Software" shall mean all software, source code, and/or associated 
+        documentation files included alongside this license.
         
-        b.  Any natural person dealing in the Software for profit for a 
-            period exceeding one year. 
-    
-    3.  "Valid Licensee" shall mean:
-    
-        a.  Any person who is not an Enterprise User.
+        1.2.  "Enterprise User" shall mean:
         
-        b.  Any Enterprise User with a valid Enterprise License.
-        
-        c.  Any natural person who has not dealt in the Software for profit 
-            for more than one year in accordance with Paragraph 2(b) above.
+            a.  Any Corporation.
             
-        d.  Any person who has received an enterprise fee waiver, in writing, 
-            from the Licensor.
+            b.  Any natural person dealing in the Software for profit for a 
+                period exceeding one year. 
+        
+        1.3.  "Valid Licensee" shall mean:
+        
+            a.  Any person who is not an Enterprise User.
+            
+            b.  Any Enterprise User with a valid Enterprise License.
+            
+            c.  Any natural person who has not dealt in the Software for profit 
+                for more than one year in accordance with Paragraph 2(b) above.
+                
+            d.  Any person who has received an enterprise fee waiver, in writing, 
+                from the Licensor.
+        
+        1.4. "Potential Licensee" shall mean any person, Corporation, or entity
+        in possession of the Software.
 
-    GRANT OF PERMISSION.    Permission is hereby granted, free of charge, to 
-    any Valid Licensee obtaining a copy of this software and associated 
-    documentation files (the "Software") for such time that they shall 
-    continue to qualify as a Valid Licensee in accordance with Paragraph 3 
-    above, to deal in the Software without restriction, including without 
-    limitation the rights to use, copy, modify, merge, publish, distribute, 
-    sublicense, and/or sell copies of the Software, and to permit Valid 
-    Licensees to whom the Software is furnished to do so, subject to the
-    following conditions:
+    2.  GRANT OF PERMISSION.    For such time that they qualify as a Valid
+    Licensee in accordance with Paragraph 3 above, permission is hereby granted,
+    free of charge, to any Valid Licensee obtaining a copy of this Software and 
+    associated documentation files, to deal in the Software without restriction, 
+    and to permit Valid Licensees to whom the Software is furnished to do so, 
+    subject to the following conditions:
 
-        1.  The above copyright notice and the following permission notice 
+        2.1.    The above copyright notice and the following permission notice 
             shall be included in all copies or substantial portions of the 
             Software:
 
@@ -65,17 +65,20 @@
             FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR 
             OTHER DEALINGS IN THE SOFTWARE.
 
-        2.  This License file is to be included, unmodified, with the 
+        2.2.    This License file is to be included, unmodified, with the 
         filename "LICENSE" in the root directory, either directly or in a
         folder also named "LICENSE", of any original or derivative Software 
         source codes (if applicable).
         
-        3.  Should any person in possession of this Software fail to qualify 
-        as a Valid Licensee in accordance with Paragraph 3 above, they shall 
-        immediately cease and desist from selling the Software and/or 
-        derivative work(s) until such time that they have been granted an 
-        Enterprise License from the Licensor.
+        2.3.    Should any Potential Licensee fail to qualify as a Valid
+        Licensee in accordance with Section 1.3 above, they shall immediately
+        cease and desist from using dealing in the Software for profit until
+        such time that they have been granted an Enterprise License from the
+        Licensor.
   
-    ALL RIGHTS RESERVED.    With the exception of the permissions granted 
+    3.  ALL RIGHTS RESERVED.    With the exception of the permissions granted 
     above, the copyright holder reserves all rights under U.S. and 
     international law.
+
+    4.  SUBJECT TO CHANGE.  This License is subject to change at any time,
+    and by using the Software, the Licensee 
